@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tushark2002
 - 👀 I’m interested in coding as a hobby
-- 🌱 I’m currently learning python through cs50 course by harvard
+- 🌱 I’m currently learning python through cs50 course
 
 <!---
 tushark2002/tushark2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
